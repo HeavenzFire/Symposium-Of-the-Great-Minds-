@@ -1,0 +1,5 @@
+{
+  "name": "Symposium of the Great Minds",
+  "description": "An interactive web application that allows you to ask questions to a panel of history's greatest thinkers. Using the Gemini API, each personality responds in their unique style, creating a dynamic and insightful virtual symposium.",
+  "requestFramePermissions": []
+}
